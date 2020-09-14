@@ -5,4 +5,4 @@ end
 
 meal_choice('carrots', 'string beans', 'lentils')
 
-meal_choice('carrots', 'string beans', protein)
+meal_choice('carrots', 'string beans')
